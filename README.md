@@ -1,10 +1,8 @@
 # 🖲 Top 54 HTML5 interview questions and answers in 2021
 
-<div data-v-5e9078c0="" data-v-b06dc010="" class="QuestionsList"><div data-v-5e9078c0=""><br data-v-5e9078c0="">
+> You can check all 54 HTML5 tech interview questions here 👉 https://devinterview.io/dev/html5-interview-questions
 
-    You can check all 54 HTML5 tech interview questions here 👉 https://devinterview.io/dev/html5-interview-questions
-    
- <br data-v-5e9078c0=""> <div data-v-5e9078c0="" class="start"></div> <br data-v-5e9078c0=""> <div data-v-5e9078c0="" class="unit"><div><h2>🔹 1. Write a HTML table tag sequence that outputs the following</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Write a HTML table tag sequence that outputs the following:</p><pre><code>50 pcs 100 500
+<div data-v-5e9078c0="" class="start"></div> <br data-v-5e9078c0=""> <div data-v-5e9078c0="" class="unit"><div><h2>🔹 1. Write a HTML table tag sequence that outputs the following</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Write a HTML table tag sequence that outputs the following:</p><pre><code>50 pcs 100 500
 10 pcs 5 50</code></pre><p><strong>Answer:</strong></p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>table</span><span class="token cBase">&gt;</span></span>
   <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>tr</span><span class="token cBase">&gt;</span></span>
     <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>td</span><span class="token cBase">&gt;</span></span>50 pcs<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>td</span><span class="token cBase">&gt;</span></span>
