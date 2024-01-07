@@ -1,137 +1,772 @@
-# 🖲 Top 54 HTML5 interview questions and answers in 2021
+# 100 Essential HTML5 Interview Questions
 
-> You can check all 54 HTML5 tech interview questions here 👉 https://devinterview.io/dev/html5-interview-questions
-
+<div>
 <p align="center">
-  <a href="https://devinterview.io/">
-  <img src="https://source.unsplash.com/collection/52661698/600x300">
-  </a>
+<a href="https://devinterview.io/questions/web-and-mobile-development/">
+<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
+</a>
 </p>
 
-<div data-v-5e9078c0="" class="start"></div> <br data-v-5e9078c0=""> <div data-v-5e9078c0="" class="unit"><div><h2>🔹 1. Write a HTML table tag sequence that outputs the following</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Write a HTML table tag sequence that outputs the following:</p><pre><code>50 pcs 100 500
-10 pcs 5 50</code></pre><p><strong>Answer:</strong></p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>table</span><span class="token cBase">&gt;</span></span>
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>tr</span><span class="token cBase">&gt;</span></span>
-    <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>td</span><span class="token cBase">&gt;</span></span>50 pcs<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>td</span><span class="token cBase">&gt;</span></span>
-    <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>td</span><span class="token cBase">&gt;</span></span>100<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>td</span><span class="token cBase">&gt;</span></span>
-    <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>td</span><span class="token cBase">&gt;</span></span>500<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>td</span><span class="token cBase">&gt;</span></span>
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>tr</span><span class="token cBase">&gt;</span></span>
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>tr</span><span class="token cBase">&gt;</span></span>
-    <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>td</span><span class="token cBase">&gt;</span></span>10 pcs<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>td</span><span class="token cBase">&gt;</span></span>
-    <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>td</span><span class="token cBase">&gt;</span></span>5<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>td</span><span class="token cBase">&gt;</span></span>
-    <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>td</span><span class="token cBase">&gt;</span></span>50<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>td</span><span class="token cBase">&gt;</span></span>
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>tr</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>table</span><span class="token cBase">&gt;</span></span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.toptal.com/html5/interview-questions" rel="noreferrer" target="_blank" title="Write a HTML table tag sequence that outputs the following Interview Questions Source To Answer">toptal.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 2. What is an iframe and how it works?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>An <strong>iframe</strong> is an <strong>HTML document</strong> which can be embedded inside another HTML page.</p><p><strong>Example</strong>:</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>iframe</span> <span class="token cVar">src</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>https://github.com<span class="token cBase">"</span></span> <span class="token cVar">height</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>300px<span class="token cBase">"</span></span> <span class="token cVar">width</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>300px<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>iframe</span><span class="token cBase">&gt;</span></span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation" rel="noreferrer" target="_blank" title="What is an iframe and how it works? Interview Questions Source To Answer">github.com/FuelFrontend</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 3. Explain meta tags in HTML</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><strong>Meta tags</strong> always go inside <strong>head tag</strong> of the HTML page</li><li><strong>Meta tags</strong> is always passed as name/value pairs</li><li><strong>Meta tags</strong> are not displayed on the page but intended for the browser</li><li><strong>Meta tags</strong> can contain information about <strong>character encoding</strong>, <strong>description</strong>, <strong>title</strong> of the document etc,</li></ul><p><strong>Example</strong>:</p><pre><code><span class="token cComment">&lt;!DOCTYPE html&gt;</span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>html</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>head</span><span class="token cBase">&gt;</span></span>
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>meta</span> <span class="token cVar">name</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>description<span class="token cBase">"</span></span> <span class="token cVar">content</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>I am a web page with description<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span> 
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>title</span><span class="token cBase">&gt;</span></span>Home Page<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>title</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>head</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>body</span><span class="token cBase">&gt;</span></span>
+#### You can also find all 100 answers here 👉 [Devinterview.io - HTML5](https://devinterview.io/questions/web-and-mobile-development/html5-interview-questions)
+
+<br>
+
+## 1. What does _HTML_ stand for and what is its purpose?
+
+**HTML** or **H**yper **T**ext **M**arkup **L**anguage is the standard language for creating web pages and applications. HTML5, the latest version as of 2022, introduces several new elements and attributes, elevating user experience and software application standards.
+
+HTML is responsible for structuring web content, ensuring accessibility, and guiding how web pages are visually presented. It remains the foundational structure for running nearly all web content.
+
+### Core Functionalities
+
+- **Structuring Content**: Tags like `<header>`, `<footer>`, and `<section>` divide content, streamlining its organization.
+- **Embedding Media**: HTML provides tags to incorporate multimedia such as images, audio, and video.
+- **Form Handling**: Interactive sections such as user input forms are defined with input and label tags.
+- **Hyperlinks**: Essential for navigation, hypertext links like `<a>` anchor content within or outside the webpage.
+- **Accessibility Features**: Semantic tags like `<nav>` and `<article>` not only structure data but also improve accessibility for users relying on screen readers.
+- **Integration of Other Technologies**: Can integrate with scripting languages like JavaScript and libraries and frameworks like Bootstrap for enhanced visual appeal.
+
+### Compatibility and Development
+
+The primary objective of HTML5 is to improve the language's support for the latest multimedia, while keeping it easily readable by humans. It was designed to be backward and forward compatible, so that content written in previous versions can be seamlessly integrated and interact with content authored in subsequent versions.
+
+### Visual Presentation and User Interface Adaptations
+
+HTML5 is engineered to provide more flexibility, control, and aesthetic maturity for web pages and web-based software applications. Web developers can use it to craft modern web interfaces with rich visual and multimedia experiences. It also allows for more responsive and adaptive design, ensuring optimal viewing on a variety of devices and screen sizes. This reflects a broader shift in technology toward a more device-agnostic user experience. 
+
+### The Role of CSS and JavaScript
+
+While HTML offers static content, **CSS** and **JavaScript** enable additional layers of styling, interactivity, and dynamic content updates. The integration of these three technologies (referred to as **HTML-CSS-JS**) stands as the trio that forms the backbone of almost all web-based content. They're often presented as **HTML5-CSS3-JS** to signify unified modern best practices. Online, there's even tools that combine these technologies into a  single framework or language such as WebAssembly or Dart. The trio represents a more modular approach, allowing distinct teams to focus on individual layers, streamlining development in larger projects. Mastering their intersection helps in designing a robust and cohesive user experience. This concept is captured by the acronym "PEA", which stands for the Platform (HTML), the Engine (JavaScript), and the Appearance (CSS). Each category focuses on a distinct aspect of user experience.
+
+### Practical Uses
+
+- **Website Development**: All traditional web resources, from simple blogs to expansive e-commerce sites, remain based primarily on HTML.
+- **Web Applications**: Web technologies have evolved significantly, allowing for sophisticated applications like Google Docs, Trello, and Slack to run entirely in a web browser. HTML5 has played a pivotal role in this development.
+- **Advertising & Media**: HTML5's advanced media handling tools have made it the standard for online ads and multimedia content.
+<br>
+
+## 2. Describe the basic structure of an _HTML document_.
+
+**HyperText Markup Language** (HTML) serves as the backbone of web content, defining its structure and semantics. We will now walk you through the fundamental elements of an HTML document.
+
+### Basic Structure of an HTML Document
+
+An HTML document consists of two primary sections: the `head` and the `body`.
+
+#### Document Type Declaration (DOCTYPE)
+
+The **Document Type Declaration** (DOCTYPE) is not an HTML tag; it's an instruction to the web browser about what version of HTML the page is written in.
+
+```html
+<!DOCTYPE html>
+```
+
+This declaration shows that the document is an HTML5 document.
+
+#### HTML Element
+
+The `html` element is the root element of an HTML page. It encompasses the entire content, both head and body.
+
+```html
+<html>
+    <!-- Head and Body Sections Are Nested Inside -->
+</html>
+```
+
+#### Head Section
+
+The `head` section provides meta-information about the document. It isn't displayed in the web browser itself but serves various other purposes, from providing a title to linking external resources.
+
+```html
+<head>
+    <!-- Title and Meta-Tags, Styles, Scripts, etc. -->
+</head>
+```
+
+##### Title Element
+
+The `title` element specifies the document's title, which is displayed in the browser's title bar or tab.
+
+```html
+<title>Your Page Title</title>
+```
+
+#### Body Section
+
+The `body` section encapsulates the document's visible content—what users see and interact with.
+
+```html
+<body>
+    <!-- Content Visible to Users: Headings, Paragraphs, Images, etc. -->
+</body>
+```
+<br>
+
+## 3. What do _DOCTYPE_ and _html lang_ attributes do?
+
+**Document Type** (DOCTYPE) and the `lang` attribute play crucial roles in our webpages.
+
+### DOCTYPE: Defining Document Type and Validation Mode
+
+#### Purpose
+- Specifies the HTML or XHTML version used in the document.
+- Identifies parsing method and algorithm for the web browser, affecting consistency.
+
+#### Code Example
+
+The `<!DOCTYPE>` declaration is placed at the very top of the HTML file, even before the `<html>` tag begins.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <!-- Content -->
+  </body>
+</html>
+```
+
+### Lang Attribute: Language Specification
+
+The `lang` attribute, present in the HTML tag, specifies the primary language used in the document. Its value is a primary language subtag as defined in RFC 5646 (BCP 47) and it can include a valid language code, a valid language code followed by a valid region code, or simply "und" for unspecified language.
+
+#### Code Example
+
+```html
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <h1>Welcome</h1>
+    <p>This is a demo page.</p>
+  </body>
+</html>
+```
+<br>
+
+## 4. What is the difference between _head_ and _body_ tags?
+
+While the **\<head>** and **\<body>** tags are fundamental to every HTML document, they serve distinct purposes and are located in separate areas of the web page.
+
+### Key Distinctions
+
+#### 1. Role and Content
+
+- **Head**: Houses meta-information, such as document title, character encoding, and stylesheets, all of which are essential for page setup but not visible to the user.
+- **Body**: Contains the bulk of visible content, including text, images, videos, links, and more.
+
+#### 2. Placement in the HTML File
+
+- **Head**: Precedes the body and provides setup before actual content is rendered.
+- **Body**: Follows the head section and encompasses all visible content.
+
+#### 3. Common Elements in Each Section
+
+- **Head**: Typically links to CSS files or may have inline CSS, contains the document title, any JavaScript reference, character set declaration, and meta tags.
+- **Body**: Holds structural components like headers, navbars, articles, sections, and the footer, along with visual content like images and visible text.
+
+### Visual Representation in the HTML File
+
+- **\<head> Section**:
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+      <!-- Content Here -->
+    </body>
+  </html>
+  ```
+
+- **\<body> Section**:
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+      <header>
+        <h1>Welcome!</h1>
+        <nav>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <section>
+        <h2>Recent Posts</h2>
+        <article>
+          <h3>Post Title</h3>
+          <p>Post content goes here.</p>
+        </article>
+      </section>
+
+      <footer>
+        <p>&copy; 2023 MySite</p>
+      </footer>
+
+    </body>
+  </html>
+  ```
+<br>
+
+## 5. Can you explain the purpose of _meta tags_ in HTML?
+
+**Meta tags** provide metadata about a web page through information invisible to visitors but essential for search engines, social media, and other web technology. This metadata includes details such as the page's title, keywords, and description.
+
+### Key Meta Tags
+
+- **Meta Description**: A concise summary of the page's content, often used in search engine results.
+
+- **Meta Keywords**: Historically used to specify relevant keywords for the page, but they have been largely deprecated due to abuse by spammers.
+
+- **Meta Robots**: Directs search engine bots on how to interact with the page, such as index it for search results, follow its links, or refrain from both.
+
+- **Meta Viewport**: Crucial for responsive design, it guides the browser on how to scale and display the page, especially useful for mobile devices.
+
+- **Meta Charset**: Defines the character encoding used on the webpage, ensuring text is displayed correctly.
+
+- **Meta Author**: Identifies the page's creator or author.
+
+- **Open Graph, Twitter Cards**: Specialized meta tags used by social platforms like Facebook and Twitter to optimize page sharing.
+
+- **Canonical URL**: Indicates the preferred URL when a page can be accessed through multiple paths.
+
+- **Refresh and Redirect**: Older, less common meta tags that dictate page behavior.
+
+### Code Example: Common Meta Tags
+
+Here is the HTML code:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is a sample web page with a concise description.">
+    <meta name="keywords" content="HTML, meta tags, web design, SEO">
+    <meta name="author" content="John Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Web Page</title>
+</head>
+<body>
+    <!-- Page content goes here -->
+</body>
+</html>
+```
+
+### Responsible Use of Meta Tags
+
+With search engines evolving, many tags have diminished in significance. Here's the current state:
+
+- **Still Relevant**: Meta Description, Viewport, Charset, Author, and Canonical
+- **Limited Effect**: Keywords, Refresh, and Robots
+- **Specialized Fields**: Open Graph, Twitter Cards are necessary for tailored content on social platforms
+
+To maintain a robust online presence, focus on high-quality content, user experience, and technical soundness, and don't solely rely on meta tags.
+<br>
+
+## 6. How do you link a _CSS file_ to an _HTML document_?
+
+**Linking** a CSS file to an HTML document is a fundamental step for styling. This is generally done by indicating the CSS file's path in the `head` section of the HTML file using `<link>` tags.
+
+### HTML Link Tag: `<link>`
+
+HTML uses the `<link>` tag to **integrate external resources** such as CSS files.
+
+#### Syntax
+
+```html
+<link rel="stylesheet" href="path/to/style.css">
+```
+
+- **rel**: Specifies the type of relationship between the current document and the linked file. For CSS, it should be set to "stylesheet".
+
+- **href**: Points to the location of the external CSS file. This can be via an **absolute URL** (i.e., `http://...`) or a **relative path** to the HTML file.
+
+- **type**: Supplied for legacy purposes but is not required given the file is a CSS file.
+
+#### Code Example: Using the Link Tag
+
+Here is the HTML code:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="path/to/style.css">
+</head>
+<body>
+    <!-- Body content -->
+</body>
+</html>
+```
+<br>
+
+## 7. How do you link a _JavaScript file_ to an _HTML document_?
+
+To link a JavaScript file to an HTML document, you need to use the `<script>` HTML tag. There are two primary ways to do this:
+
+1. **External Script File**: Link a separate JavaScript file to your HTML document.
+2. **Inline Script**: Embed JavaScript code directly within your HTML file.
+
+### External Script File
+
+To use an external JavaScript file, follow these steps:
+
+1. **Create the JavaScript File**: Save your JavaScript code in a separate file with a `.js` extension. For example, `script.js`.
+
+2. **Link the JavaScript File to your HTML Document**: Add the following code within the `<head>` or at the end of the `<body>` section of your HTML file.
+
+    ```html
+    <script src="path-to-your-js-file.js"></script>
+    ```
+
+    Replace `path-to-your-js-file.js` with the actual path to your JavaScript file.
+
+#### Best Practices
+
+- **Placement**: It's good practice to place your `<script>` tags at the end of the `<body>` section, just before the closing `</body>` tag. This ensures that the HTML content loads first, which can improve the website's initial rendering speed.
+
+- **Syntax**: The HTML5 specification does not require a closing tag for the `<script>` element.
+
+### Inline Script
+
+You can also include JavaScript directly within your HTML file. This is called an "inline script." To do this, encase your JavaScript code within `<script>` tags, like this:
+
+  ```html
+  <script>
+      // Your JavaScript code goes here
+  </script>
+  ```
+
+#### Best Practices
+
+- **Content Separation**: For better code organization, it's often better to keep your JavaScript in a separate file, especially for larger applications.
   
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>body</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>html</span><span class="token cBase">&gt;</span></span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation" rel="noreferrer" target="_blank" title="Explain meta tags in HTML Interview Questions Source To Answer">github.com/FuelFrontend</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 4. What is the purpose of the alt attribute on images?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The <code>alt</code> attribute provides alternative information for an image if a user cannot view it. The <code>alt</code> attribute should be used to describe any images except those which only serve a decorative purposes, in which case it should be left empty.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML" rel="noreferrer" target="_blank" title="What is the purpose of the alt attribute on images? Interview Questions Source To Answer">developer.mozilla.org</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 5. What is the difference between span and div?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><code>div</code> is a block element</li><li><code>span</code> is inline element </li></ul><p>For bonus points, you could point out that it’s illegal to place a block element inside an inline element, and that while <code>div</code> can have a <code>p</code> tag, and a <code>p</code> tag can have a <code>span</code>, it is not possible for <code>span</code> to have a <code>div</code> or <code>p</code> tag inside.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="http://thatjsdude.com/INTERVIEW/HTML.HTML" rel="noreferrer" target="_blank" title="What is the difference between span and div? Interview Questions Source To Answer">thatjsdude.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 6. How can you highlight text in HTML?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>If you are working with an HTML5 page, the <code>&lt;mark&gt;</code> tag can be a quick and easy way of highlighting or marking text on a page:</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>mark</span><span class="token cBase">&gt;</span></span>highlighted text<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>mark</span><span class="token cBase">&gt;</span></span></code></pre><p>To highlight text with just HTML code and support for all browsers, set the background-color style, as shown in the example below, using the <span><span></span></span> HTML tag.</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>span</span><span class="token style-attr language-css"><span class="token cVar"> <span class="token cVar">style</span></span><span class="token cBase">="</span><span class="token cString"><span class="token cVar">background-color</span><span class="token cBase">:</span> #FFFF00</span><span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span>Yellow text.<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>span</span><span class="token cBase">&gt;</span></span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.computerhope.com/issues/ch001391.htm" rel="noreferrer" target="_blank" title="How can you highlight text in HTML? Interview Questions Source To Answer">computerhope.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 7. What were some of the key goals and motivations for the HTML5 specification?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>HTML5 was designed to replace HTML 4, XHTML, and the HTML DOM Level 2. The key goals and motivations behind the HTML5 specification were to:</p><ul><li>Deliver rich content (graphics, movies, etc.) without the need for additional plugins, such as Flash.</li><li>Provide better semantic support for web page structure through new structural element tags.</li><li>Provide a stricter parsing standard to simplify error handling, ensure more consistent cross-browser behaviour, and simplify compatibility with documents written to older standards.</li><li>Provide better cross-platform support whether running on a PC, Tablet, or Smartphone.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.toptal.com/html5/interview-questions" rel="noreferrer" target="_blank" title="What were some of the key goals and motivations for the HTML5 specification? Interview Questions Source To Answer">toptal.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 8. What is Character Encoding?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>To display an HTML page correctly, a web browser must know which character set (character encoding) to use. This is specified in the <meta> tag:</p><p><strong>HTML4:</strong></p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>meta</span> <span class="token cVar">http-equiv</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>Content-Type<span class="token cBase">"</span></span> <span class="token cVar">content</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>text/html;charset=ISO-8859-1<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span></code></pre><p><strong>HTML5:</strong></p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>meta</span> <span class="token cVar">charset</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>UTF-8<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.w3schools.com/html/html_charset.asp" rel="noreferrer" target="_blank" title="What is Character Encoding? Interview Questions Source To Answer">w3schools.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 9. What is a self closing tag?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>In HTML5 it is not strictly necessary to close certain HTML tags. The tags that aren’t required to have specific closing tags are called “self closing” tags.</p><p>An example of a self closing tag is something like a line break (<code>&lt;br /&gt;</code>) or the meta tag (<code>&lt;meta&gt;</code>). This means that the following are both acceptable:</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>meta</span> <span class="token cVar">charset</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>UTF-8<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span>
-...
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>meta</span> <span class="token cVar">charset</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>UTF-8<span class="token cBase">"</span></span> <span class="token cBase">/&gt;</span></span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="http://blog.teamtreehouse.com/to-close-or-not-to-close-tags-in-html5" rel="noreferrer" target="_blank" title="What is a self closing tag?  Interview Questions Source To Answer">blog.teamtreehouse.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 10. How Can I Get Indexed Better by Search Engines?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>It is possible to get indexed better by placing the following two statements in the <code>&lt;HEAD&gt;</code> part of your documents:</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>META</span> <span class="token cVar">NAME</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>keywords<span class="token cBase">"</span></span> <span class="token cVar">CONTENT</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>keyword keyword keyword keyword<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>META</span> <span class="token cVar">NAME</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>description<span class="token cBase">"</span></span> <span class="token cVar">CONTENT</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>description of your site<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span></code></pre><p>Both may contain up to 1022 characters. If a keyword is used more than 7 times, the keywords tag will be ignored altogether. Also, you cannot put markup (other than entities) in the description or keywords list.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="http://www.freejavaguide.com/html-interview-questions.htm" rel="noreferrer" target="_blank" title="How Can I Get Indexed Better by Search Engines? Interview Questions Source To Answer">freejavaguide.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 11. Briefly describe the correct usage of the following HTML5 semantic elements: header, article, section, footer</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><p><code>&lt;header&gt;</code> is used to contain introductory and navigational information about a section of the page. This can include the section heading, the author’s name, time and date of publication, table of contents, or other navigational information.</p></li><li><p><code>&lt;article&gt;</code> is meant to house a self-contained composition that can logically be independently recreated outside of the page without losing it’s meaining. Individual blog posts or news stories are good examples.</p></li><li><p><code>&lt;section&gt;</code> is a flexible container for holding content that shares a common informational theme or purpose.</p></li><li><p><code>&lt;footer&gt;</code> is used to hold information that should appear at the end of a section of content and contain additional information about the section. Author’s name, copyright information, and related links are typical examples of such content.</p></li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.w3schools.com/html/html5_semantic_elements.asp" rel="noreferrer" target="_blank" title="Briefly describe the correct usage of the following HTML5 semantic elements: `<header>`, `<article>`, `<section>`, `<footer>` Interview Questions Source To Answer">w3schools.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 12. hat's the difference between an "attribute" and a "property" in HTML?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Attributes are defined on the HTML markup but properties are defined on the DOM. To illustrate the difference, imagine we have this text field in our HTML: <code>&lt;input type="text" value="Hello"&gt;</code>.</p><pre><code><span class="token cVar">const</span> input <span class="token cBase">=</span> document<span class="token cBase">.</span><span class="token cMod">querySelector</span><span class="token cBase">(</span><span class="token cString">'input'</span><span class="token cBase">)</span><span class="token cBase">;</span>
-console<span class="token cBase">.</span><span class="token cMod">log</span><span class="token cBase">(</span>input<span class="token cBase">.</span><span class="token cMod">getAttribute</span><span class="token cBase">(</span><span class="token cString">'value'</span><span class="token cBase">)</span><span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// Hello</span>
-console<span class="token cBase">.</span><span class="token cMod">log</span><span class="token cBase">(</span>input<span class="token cBase">.</span>value<span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// Hello</span></code></pre><p>But after you change the value of the text field by adding "World!" to it, this becomes:</p><pre><code>console<span class="token cBase">.</span><span class="token cMod">log</span><span class="token cBase">(</span>input<span class="token cBase">.</span><span class="token cMod">getAttribute</span><span class="token cBase">(</span><span class="token cString">'value'</span><span class="token cBase">)</span><span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// Hello</span>
-console<span class="token cBase">.</span><span class="token cMod">log</span><span class="token cBase">(</span>input<span class="token cBase">.</span>value<span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// Hello World!</span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md" rel="noreferrer" target="_blank" title="hat's the difference between an &quot;attribute&quot; and a &quot;property&quot; in HTML? Interview Questions Source To Answer">github.com/yangshun</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 13. When is it appropriate to use the small element?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The HTML <code>&lt;small&gt;</code> element makes the text font size one size smaller (for example, from large to medium, or from small to x-small) down to the browser's minimum font size.  In HTML5, this element is repurposed to represent side-comments and small print, including copyright and legal text, independent of its styled presentation.</p><p>Consider:</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>img</span> <span class="token cVar">src</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>image.jpg<span class="token cBase">"</span></span> <span class="token cVar">alt</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>London by night<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>small</span><span class="token cBase">&gt;</span></span>The copyright of this image is owned by Aurelio De Rosa<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>small</span><span class="token cBase">&gt;</span></span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small" rel="noreferrer" target="_blank" title="When is it appropriate to use the small element? Interview Questions Source To Answer">developer.mozilla.org</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 14. How do you serve a page with content in multiple languages?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The question is a little vague, I will assume that it is asking about the most common case, which is how to serve a page with content available in multiple languages, but the content within the page should be displayed only in one consistent language.</p><p>When an HTTP request is made to a server, the requesting user agent usually sends information about language preferences, such as in the <code>Accept-Language</code> header. The server can then use this information to return a version of the document in the appropriate language if such an alternative is available. The returned HTML document should also declare the <code>lang</code> attribute in the <code>&lt;html&gt;</code> tag, such as <code>&lt;html lang="en"&gt;...&lt;/html&gt;</code>.</p><p>In the back end, the HTML markup will contain <code>i18n</code> placeholders and content for the specific language stored in YML or JSON formats. The server then dynamically generates the HTML page with content in that particular language, usually with the help of a back end framework.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.w3.org/International/getting-started/language" rel="noreferrer" target="_blank" title="How do you serve a page with content in multiple languages? Interview Questions Source To Answer">w3.org</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 15. What's new in HTML 5?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>HTML 5 adds a lot of new features to the HTML specification</p><p><strong>New Doctype</strong></p><p>Still using that pesky, impossible-to-memorize XHTML doctype?</p><pre><code><span class="token cComment">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</span></code></pre><p>If so, why? Switch to the new HTML5 doctype. You'll live longer -- as Douglas Quaid might say.</p><pre><code><span class="token cComment">&lt;!DOCTYPE html&gt;</span></code></pre><p><strong>New Structure</strong></p><ul><li><code>&lt;section&gt;</code> - to define sections of pages</li><li><code>&lt;header&gt;</code> - defines the header of a page</li><li><code>&lt;footer&gt;</code> - defines the footer of a page</li><li><code>&lt;nav&gt;</code> - defines the navigation on a page</li><li><code>&lt;article&gt;</code> - defines the article or primary content on a page</li><li><code>&lt;aside&gt;</code> - defines extra content like a sidebar on a page</li><li><code>&lt;figure&gt;</code> - defines images that annotate an article</li></ul><p><strong>New Inline Elements</strong></p><p>These inline elements define some basic concepts and keep them semantically marked up, mostly to do with time:</p><ul><li><code>&lt;mark&gt;</code> - to indicate content that is marked in some fashion</li><li><code>&lt;time&gt;</code> - to indicate content that is a time or date</li><li><code>&lt;meter&gt;</code> - to indicate content that is a fraction of a known range - such as disk usage</li><li><code>&lt;progress&gt;</code> - to indicate the progress of a task towards completion</li></ul><p><strong>New Form Types</strong></p><ul><li><code>&lt;input type="datetime"&gt;</code></li><li><code>&lt;input type="datetime-local"&gt;</code></li><li><code>&lt;input type="date"&gt;</code></li><li><code>&lt;input type="month"&gt;</code></li><li><code>&lt;input type="week"&gt;</code></li><li><code>&lt;input type="time"&gt;</code></li><li><code>&lt;input type="number"&gt;</code></li><li><code>&lt;input type="range"&gt;</code></li><li><code>&lt;input type="email"&gt;</code></li><li><code>&lt;input type="url"&gt;</code></li></ul><p><strong>New Elements</strong></p><p>There are a few exciting new elements in HTML 5:</p><ul><li><code>&lt;canvas&gt;</code> - an element to give you a drawing space in JavaScript on your Web pages. It can let you add images or graphs to tool tips or just create dynamic graphs on your Web pages, built on the fly.</li><li><code>&lt;video&gt;</code> - add video to your Web pages with this simple tag.</li><li><code>&lt;audio&gt;</code> - add sound to your Web pages with this simple tag.</li></ul><p><strong>No More Types for Scripts and Links</strong></p><p>You possibly still add the <code>type</code> attribute to your <code>link</code> and <code>script</code> tags.</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>link</span> <span class="token cVar">rel</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>stylesheet<span class="token cBase">"</span></span> <span class="token cVar">href</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>path/to/stylesheet.css<span class="token cBase">"</span></span> <span class="token cVar">type</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>text/css<span class="token cBase">"</span></span> <span class="token cBase">/&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>script</span> <span class="token cVar">type</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>text/javascript<span class="token cBase">"</span></span> <span class="token cVar">src</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>path/to/script.js<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span><span class="token script"></span><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>script</span><span class="token cBase">&gt;</span></span></code></pre><p>This is no longer necessary. It's implied that both of these tags refer to stylesheets and scripts, respectively. As such, we can remove the <code>type</code> attribute all together.</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>link</span> <span class="token cVar">rel</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>stylesheet<span class="token cBase">"</span></span> <span class="token cVar">href</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>path/to/stylesheet.css<span class="token cBase">"</span></span> <span class="token cBase">/&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>script</span> <span class="token cVar">src</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>path/to/script.js<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span><span class="token script"></span><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>script</span><span class="token cBase">&gt;</span></span></code></pre><p><strong>Make your content editable</strong></p><p>The new browsers have a nifty new attribute that can be applied to elements, called <code>contenteditable</code>. As the name implies, this allows the user to edit any of the text contained within the element, including its children. There are a variety of uses for something like this, including an app as simple as a to-do list, which also takes advantage of local storage.</p><pre><code><span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>h2</span><span class="token cBase">&gt;</span></span> To-Do List <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>h2</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>ul</span> <span class="token cVar">contenteditable</span><span class="token cString"><span class="token cBase">=</span><span class="token cBase">"</span>true<span class="token cBase">"</span></span><span class="token cBase">&gt;</span></span>
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>li</span><span class="token cBase">&gt;</span></span> Break mechanical cab driver. <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>li</span><span class="token cBase">&gt;</span></span>
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>li</span><span class="token cBase">&gt;</span></span> Drive to abandoned factory
-  <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;</span>li</span><span class="token cBase">&gt;</span></span> Watch video of self <span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>li</span><span class="token cBase">&gt;</span></span>
-<span class="token cBool"><span class="token cBool"><span class="token cBase">&lt;/</span>ul</span><span class="token cBase">&gt;</span></span></code></pre><p><strong>Attributes</strong></p><ul><li><code>require</code> to mention the form field is required</li><li><code>autofocus</code> puts the cursor on the input field</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation" rel="noreferrer" target="_blank" title="What's new in HTML 5? Interview Questions Source To Answer">github.com/FuelFrontend</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 16. What is the difference between section and div?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><p><code>&lt;section&gt;</code> means that the content inside is grouped (i.e. relates to a single theme), and should appear as an entry in an outline of the page.</p></li><li><p><code>&lt;div&gt;</code>, on the other hand, does not convey any meaning, aside from any found in its class, lang and title attributes.</p></li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div" rel="noreferrer" target="_blank" title="What is the difference between `<section>` and `<div>`? Interview Questions Source To Answer">stackoverflow.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 17. Where and why is the rel="noopener" attribute used?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The <code>rel="noopener"</code> is an attribute used in <code>&lt;a&gt;</code> elements (hyperlinks). It prevents pages from having a <code>window.opener</code> property, which would otherwise point to the page from where the link was opened and would allow the page opened from the hyperlink to manipulate the page where the hyperlink is.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://developers.google.com/web/tools/lighthouse/audits/noopener" rel="noreferrer" target="_blank" title="Where and why is the `rel=&quot;noopener&quot;` attribute used? Interview Questions Source To Answer">developers.google.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 18. Can a web page contain multiple &lt;header&gt; elements? What about &lt;footer&gt; elements?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Yes to both. The W3 documents state that the tags represent the header(<code>&lt;header&gt;</code>) and footer(<code>&lt;footer&gt;</code>) areas of their nearest ancestor "section". So not only can the page <code>&lt;body&gt;</code> contain a header and a footer, but so can every <code>&lt;article&gt;</code> and <code>&lt;section&gt;</code> element.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://stackoverflow.com/questions/4837269/html5-using-header-or-footer-tag-twice?utm_medium=organic&amp;utm_source=google_rich_qa&amp;utm_campaign=google_rich_qa" rel="noreferrer" target="_blank" title="Can a web page contain multiple `<header>` elements? What about `<footer>` elements? Interview Questions Source To Answer">stackoverflow.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 19. What is WebSQL?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><strong>WebSQL</strong> is <strong>database API</strong> for client (browser) database using SQL.</li><li>Similar to <strong>SQL</strong>, API are pretty simple.</li><li><strong>Not</strong> all the browser <a href="http://caniuse.com/#search=websql"><strong>supports</strong></a> WebSQL.</li><li>As of now WebSQL is <a href="https://www.w3.org/TR/webdatabase/"><strong>deprecated</strong></a>.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation" rel="noreferrer" target="_blank" title="What is WebSQL? Interview Questions Source To Answer">github.com/FuelFrontend</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 20. What is the DOM?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>The <em>DOM (Document Object Model)</em> is a cross-platform API that treats HTML and XML documents as a tree structure consisting of nodes. These nodes (such as elements and text nodes) are objects that can be programmatically manipulated and any visible changes made to them are reflected live in the document. In a browser, this API is available to JavaScript where DOM nodes can be manipulated to change their styles, contents, placement in the document, or interacted with through event listeners.</p><ul><li>The DOM was designed to be independent of any particular programming language, making the structural representation of the document available from a single, consistent API.</li><li>The DOM is constructed progressively in the browser as a page loads, which is why scripts are often placed at the bottom of a page, in the <code>&lt;head&gt;</code> with a <code>defer</code> attribute, or inside a <code>DOMContentLoaded</code> event listener. Scripts that manipulate DOM nodes should be run after the DOM has been constructed to avoid errors.</li><li><code>document.getElementById()</code> and <code>document.querySelector()</code> are common functions for selecting DOM nodes.</li><li>Setting the <code>innerHTML</code> property to a new value runs the string through the HTML parser, offering an easy way to append dynamic HTML content to a node.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://developer.mozilla.org/en-US/docs/DOM" rel="noreferrer" target="_blank" title="What is the DOM? Interview Questions Source To Answer">developer.mozilla.org</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 21. What is HTML5 Web Storage? Explain localStorage and sessionStorage.</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>With HTML5, web pages can store data locally within the user’s browser.
-The data is stored in name/value pairs, and a web page can only access data stored by itself.</p><p><strong>Differences between <code>localStorage</code> and <code>sessionStorage</code> regarding lifetime:</strong></p><ul><li>Data stored through <code>localStorage</code> is permanent: it does not expire and remains stored on the user’s computer until a web app deletes it or the user asks the browser to delete it.</li><li><code>sessionStorage</code> has the same lifetime as the top-level window or browser tab in which the data got stored. When the tab is permanently closed, any data stored through <code>sessionStorage</code> is deleted.</li></ul><p><strong>Differences between <code>localStorage</code> and <code>sessionStorage</code> regarding storage scope:</strong></p><p>Both forms of storage are scoped to the document origin so that documents with different origins will never share the stored objects.</p><ul><li><code>sessionStorage</code> is also scoped on a per-window basis. Two browser tabs with documents from the same origin have separate <code>sessionStorage</code> data.</li><li>Unlike in <code>localStorage</code>, the same scripts from the same origin can't access each other's <code>sessionStorage</code> when opened in different tabs.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.w3schools.com/html/html5_webstorage.asp" rel="noreferrer" target="_blank" title="What is HTML5 Web Storage? Explain `localStorage` and `sessionStorage`. Interview Questions Source To Answer">w3schools.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 22. What are data- attributes good for?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Before JavaScript frameworks became popular, front end developers used <code>data-</code> attributes to store extra data within the DOM itself, without other hacks such as non-standard attributes, extra properties on the DOM. It is intended to store custom data private to the page or application, for which there are no more appropriate attributes or elements.</p><p>These days, using <code>data-</code> attributes is not encouraged. One reason is that users can modify the data attribute easily by using inspect element in the browser. The data model is better stored within JavaScript itself and stay updated with the DOM via data binding possibly through a library or a framework.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.w3.org/TR/html5/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes" rel="noreferrer" target="_blank" title="What are `data-` attributes good for? Interview Questions Source To Answer">w3.org</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 23. Explain the difference between cookies, session and local storage</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p><strong>Cookies</strong></p><ul><li><strong>Limited</strong> storage space <strong>4096 bytes / ~4 kb</strong></li><li>Only allow to store data as <strong>strings</strong></li><li>Stored data is sent back to server on every <strong>HTTP request</strong> such as HTML, CSS, Images etc,</li><li>Can store only <strong>20 cookies per domain</strong></li><li>In total <strong>300</strong> cookies are allowed on a site</li><li>Setting <strong>HTTP only</strong> flag will <strong>prevent accessing cookies</strong> via javascript</li><li>Can set <strong>expiration</strong> duration for auto deletion (can be set either from server or client)</li></ul><p><strong>Example</strong>:</p><pre><code><span class="token cComment">// Set with expiration &amp; path</span>
-document<span class="token cBase">.</span>cookie <span class="token cBase">=</span> <span class="token cString">"name=Gokul; expires=Thu, 18 Dec 2016 12:00:00 UTC; path=/;"</span><span class="token cBase">;</span>
+- **Caching**: When using an external JavaScript file, the browser caches the script, which can speed up your site on subsequent visits. However, if the script changes often, this caching can be a problem.
 
-<span class="token cComment">// Get</span>
-document<span class="token cBase">.</span>cookie<span class="token cBase">;</span>
+- **Maintainability and Reusability**: Utilizing an external JavaScript file allows for better code management, reusability, and ease of making updates or fixes across multiple HTML files.
 
-<span class="token cComment">// Delete by setting empty value and same path</span>
-document<span class="token cBase">.</span>cookie <span class="token cBase">=</span> <span class="token cString">"name=; expires=Thu, 18 Dec 2016 12:00:00 UTC; path=/;"</span><span class="token cBase">;</span></code></pre><p><strong>Session Storage</strong></p><ul><li>Storage space is <strong>5 mb / ~5120 kb</strong></li><li>Storage space may <strong>vary a little</strong> based on the browser</li><li>Only allow to store data as <strong>strings</strong></li><li>Data is available per <strong>window or tab</strong></li><li>Once window or tab is closed stored data is <strong>deleted</strong></li><li>Data will be <strong>only available on same origin</strong></li></ul><p><strong>Example</strong>:</p><pre><code><span class="token cComment">// Set</span>
-sessionStorage<span class="token cBase">.</span><span class="token cMod">setItem</span><span class="token cBase">(</span><span class="token cString">"name"</span><span class="token cBase">,</span> <span class="token cString">"gokul"</span><span class="token cBase">)</span><span class="token cBase">;</span>
+### Example HTML File
 
-<span class="token cComment">// Get</span>
-sessionStorage<span class="token cBase">.</span><span class="token cMod">getItem</span><span class="token cBase">(</span><span class="token cString">"name"</span><span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// gokul</span>
+Here is the code:
 
-<span class="token cComment">// Delete</span>
-sessionStorage<span class="token cBase">.</span><span class="token cMod">removeItem</span><span class="token cBase">(</span><span class="token cString">"name"</span><span class="token cBase">)</span><span class="token cBase">;</span> 
+### Implementation: HTML File
 
-<span class="token cComment">// Delete All</span>
-sessionStorage<span class="token cBase">.</span><span class="token cMod">clear</span><span class="token cBase">(</span><span class="token cBase">)</span><span class="token cBase">;</span></code></pre><p><strong>Local Storage</strong></p><ul><li>Storage space is <strong>5 mb / ~5120 kb</strong></li><li>Storage space may <strong>vary a little</strong> based on the browser</li><li>Only allow to store data as <strong>strings</strong></li><li>Data will be <strong>only available on same origin</strong></li><li>Data is <strong>persistant</strong> (untill explicitly deleted)</li><li>API is similar to session storage</li></ul><p><strong>Example</strong>:</p><pre><code><span class="token cComment">// Set</span>
-localStorage<span class="token cBase">.</span><span class="token cMod">setItem</span><span class="token cBase">(</span><span class="token cString">"name"</span><span class="token cBase">,</span> <span class="token cString">"gokul"</span><span class="token cBase">)</span><span class="token cBase">;</span>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="path-to-your-js-file.js"></script>
+</head>
+<body>
+    <!-- Your content here -->
+    <script>
+        // Inline JavaScript code here.
+    </script>
+</body>
+</html>
+```
+<br>
 
-<span class="token cComment">// Get</span>
-localStorage<span class="token cBase">.</span><span class="token cMod">getItem</span><span class="token cBase">(</span><span class="token cString">"name"</span><span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// gokul</span>
+## 8. How do you add a _comment_ in HTML and why would you use them?
 
-<span class="token cComment">// Delete</span>
-localStorage<span class="token cBase">.</span><span class="token cMod">removeItem</span><span class="token cBase">(</span><span class="token cString">"name"</span><span class="token cBase">)</span><span class="token cBase">;</span> 
+To add a **comment** in HTML, wrap it between `<!--` and `-->`.
 
-<span class="token cComment">// Delete All</span>
-localStorage<span class="token cBase">.</span><span class="token cMod">clear</span><span class="token cBase">(</span><span class="token cBase">)</span><span class="token cBase">;</span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation" rel="noreferrer" target="_blank" title="Explain the difference between cookies, session and local storage Interview Questions Source To Answer">github.com/FuelFrontend</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 24. What are some differences that XHTML has compared to HTML?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Some of the key differences are:</p><ul><li>An XHTML element must have an XHTML <code>&lt;DOCTYPE&gt;</code></li><li>Attributes values must be enclosed in quotes</li><li>Attribute minimization is forbidden (e.g. one has to use <code>checked="checked"</code> instead of <code>checked</code>)</li><li>Elements must always be properly nested</li><li>Elements must always be closed</li><li>Special characters must be escaped</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.w3schools.com/html/html_xhtml.asp" rel="noreferrer" target="_blank" title="What are some differences that XHTML has compared to HTML? Interview Questions Source To Answer">w3schools.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 25. What are Web Workers?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><strong>Web Workers</strong> helps us to run <strong>javascript code</strong> in the <strong>background</strong> <strong>without blocking</strong> application.</li><li><strong>Web Workers</strong> runs in an <strong>isolated (new) thread</strong> for <strong>executing</strong> our javascript code.</li><li><strong>Web Workers</strong> are usually used for <strong>large tasks</strong>.</li><li><strong>Web Workers</strong> needs a <strong>seperate file</strong> for our javascript code.</li><li><strong>Web Workers</strong> files are <strong>downloaded</strong> <strong>asynchronously</strong>.</li><li><strong>Web Workers</strong> are <a href="http://caniuse.com/#feat=webworkers"><strong>supported</strong></a> in all <strong>latest</strong> browser.</li></ul><p><strong>Example</strong>:</p><p>Our client side js file below:</p><pre><code><span class="token cVar">var</span> myWebWorker <span class="token cBase">=</span> <span class="token cVar">new</span> <span class="token class-name">Worker</span><span class="token cBase">(</span><span class="token cString">"task.js"</span><span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// Creating a worker</span>
+For example:
 
-<span class="token cComment">// Listen to task.js worker messages</span>
-worker<span class="token cBase">.</span><span class="token cMod">addEventListener</span><span class="token cBase">(</span><span class="token cString">"message"</span><span class="token cBase">,</span> <span class="token cVar">function</span><span class="token cBase">(</span><span class="token parameter">event</span><span class="token cBase">)</span> <span class="token cBase">{</span>
-  console<span class="token cBase">.</span><span class="token cMod">log</span><span class="token cBase">(</span><span class="token cString">"Worker said: "</span><span class="token cBase">,</span> event<span class="token cBase">.</span>data<span class="token cBase">)</span><span class="token cBase">;</span>
-<span class="token cBase">}</span><span class="token cBase">,</span> <span class="token cBool">false</span><span class="token cBase">)</span><span class="token cBase">;</span>
+```html
+<!-- This is a comment -->
+<p>Hello, World!</p>
+```
 
-worker<span class="token cBase">.</span><span class="token cMod">postMessage</span><span class="token cBase">(</span><span class="token cString">"From web worker file"</span><span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// Will start the worker</span></code></pre><p><strong>task.js</strong> (worker file) file below:</p><pre><code><span class="token cComment">// Listen to client js file post messages</span>
-self<span class="token cBase">.</span><span class="token cMod">addEventListener</span><span class="token cBase">(</span><span class="token cString">"message"</span><span class="token cBase">,</span> <span class="token cVar">function</span><span class="token cBase">(</span><span class="token parameter">event</span><span class="token cBase">)</span> <span class="token cBase">{</span>
-  self<span class="token cBase">.</span><span class="token cMod">postMessage</span><span class="token cBase">(</span>event<span class="token cBase">.</span>data<span class="token cBase">)</span><span class="token cBase">;</span> <span class="token cComment">// Send processed data to listening client js file.</span>
-<span class="token cBase">}</span><span class="token cBase">,</span> <span class="token cBool">false</span><span class="token cBase">)</span><span class="token cBase">;</span></code></pre></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation" rel="noreferrer" target="_blank" title="What are Web Workers? Interview Questions Source To Answer">github.com/FuelFrontend</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 26. What is WebSQL?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><ul><li><strong>WebSQL</strong> is <strong>database API</strong> for client (browser) database using SQL.</li><li>Similar to <strong>SQL</strong>, API are pretty simple.</li><li><strong>Not</strong> all the browser <a href="http://caniuse.com/#search=websql"><strong>supports</strong></a> WebSQL.</li><li>As of now WebSQL is <a href="https://www.w3.org/TR/webdatabase/"><strong>deprecated</strong></a>.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://github.com/FuelFrontend/Frontend-Developer-Interview-Preparation" rel="noreferrer" target="_blank" title="What is WebSQL? Interview Questions Source To Answer">github.com/FuelFrontend</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 27. What is the purpose of cache busting and how can you achieve it?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>Browsers have a cache to temporarily store files on websites so they don't need to be re-downloaded again when switching between pages or reloading the same page. The server is set up to send headers that tell the browser to store the file for a given amount of time. This greatly increases website speed and preserves bandwidth.</p><p>However, it can cause problems when the website has been changed by developers because the user's cache still references old files. This can either leave them with old functionality or break a website if the cached CSS and JavaScript files are referencing elements that no longer exist, have moved or have been renamed.</p><p>Cache busting is the process of forcing the browser to download the new files. This is done by naming the file something different to the old file.</p><p>A common technique to force the browser to re-download the file is to append a query string to the end of the file.</p><ul><li><code>src="js/script.js"</code> =&gt; <code>src="js/script.js?v=2"</code></li></ul><p>The browser considers it a different file but prevents the need to change the file name.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://css-tricks.com/strategies-for-cache-busting-css/" rel="noreferrer" target="_blank" title="What is the purpose of cache busting and how can you achieve it? Interview Questions Source To Answer">css-tricks.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 28. Discuss the differences between an HTML specification and a browser’s implementation thereof.</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>HTML specifications such as <code>HTML5</code> define a set of rules that a document must adhere to in order to be “valid” according to that specification. In addition, a specification provides instructions on how a browser must interpret and render such a document.</p><p>A browser is said to “support” a specification if it handles valid documents according to the rules of the specification. As of yet, no browser supports all aspects of the <code>HTML5</code> specification (although all of the major browser support most of it), and as a result, it is necessary for the developer to confirm whether the aspect they are making use of will be supported by all of the browsers on which they hope to display their content. This is why cross-browser support continues to be a headache for developers, despite the improved specificiations.</p><ul><li><code>HTML5</code> defines some rules to follow for an invalid <code>HTML5</code> document (i.e., one that contains syntactical errors)</li><li>However, invalid documents may contain anything, so it's impossible for the specification to handle all possibilities comprehensively.</li><li>Thus, many decisions about how to handle malformed documents are left up to the browser.</li></ul></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://www.w3.org/TR/html52/" rel="noreferrer" target="_blank" title="Discuss the differences between an HTML specification and a browser’s implementation thereof. Interview Questions Source To Answer">w3.org</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 29. Describe the difference between a 'cookie', 'sessionStorage' and 'localStorage'.</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p>All the above-mentioned technologies are key-value storage mechanisms on the client side. They are only able to store values as strings.</p><table><thead><tr><th></th><th><code>cookie</code></th><th><code>localStorage</code></th><th><code>sessionStorage</code></th></tr></thead><tbody><tr><td>Initiator</td><td>Client or server. Server can use <code>Set-Cookie</code> header</td><td>Client</td><td>Client</td></tr><tr><td>Expiry</td><td>Manually set</td><td>Forever</td><td>On tab close</td></tr><tr><td>Persistent across browser sessions</td><td>Depends on whether expiration is set</td><td>Yes</td><td>No</td></tr><tr><td>Sent to server with every HTTP request</td><td>Cookies are automatically being sent via <code>Cookie</code> header</td><td>No</td><td>No</td></tr><tr><td>Capacity (per domain)</td><td>4kb</td><td>5MB</td><td>5MB</td></tr><tr><td>Accessibility</td><td>Any window</td><td>Any window</td><td>Same tab</td></tr></tbody></table></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies" rel="noreferrer" target="_blank" title="Describe the difference between a 'cookie', 'sessionStorage' and 'localStorage'. Interview Questions Source To Answer">developer.mozilla.org</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 30. What does a DOCTYPE do?</h2></div> <div><h3>Answer:</h3> <div class="answer"><div><div><div class="AnswerBody"><p><code>DOCTYPE</code> is an abbreviation for “document type”. It is a declaration used in HTML to distinguish between standards mode and <a href="https://quirks.spec.whatwg.org/#history">quirks mode</a>. Its presence tells the browser to render the web page in standards mode.</p><p>Moral of the story - just add <code>&lt;!DOCTYPE html&gt;</code> at the start of your page.</p></div></div><div class="row my-2"><div><span><i>Source:</i>&nbsp;<span><a href="https://stackoverflow.com/questions/7695044/what-does-doctype-html-do" rel="noreferrer" target="_blank" title="What does a DOCTYPE do? Interview Questions Source To Answer">stackoverflow.com</a></span></span>&nbsp; &nbsp;</div></div></div></div></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 31. Explain almost standard, full standard and quirks mode</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 32. Explain the difference between block elements and inline elements</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 33. How do you set IE compatibility mode?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 34. What is an optional tag?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 35. How do you change the direction of html text?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 36. What are defer and async attributes on a &lt;script&gt; tag?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 37. Describe the difference between , and .</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 38. What is progressive rendering?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 39. Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute.</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 40. What is the purpose of 'main' element?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 41. What is an HTML preprocessor and are you using it?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 42. What are the building blocks of HTML5?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 43. Why to use HTML5 semantic tags?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 44. How would you select svg or canvas for your site?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 45. What kind of things must you be wary of when designing or developing for multilingual sites?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 46. What is WebP?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 47. Why do I need a doctype and what does it do?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 48. What's the difference between Full Standard, Almost Standard and Quirks Mode?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 49. Could you generate a public key in HTML?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 50. Why is it generally a good idea to position CSS s between and JS s just before ? Do you know any exceptions?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 51. What are Web Components?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 52. What is an IndexedDB?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 53. What is accessibility &amp; ARIA role means in a web application?</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div><div data-v-5e9078c0="" class="unit"><div><h2>🔹 54. Check HTML Markup Validity</h2></div> <div>
-    👉🏼 Check
-    <a href="https://devinterview.io/dev/html5-interview-questions">all 54 answers</a></div> <br><br></div> <div data-v-5e9078c0="" class="end"></div> <br data-v-5e9078c0="">
-    Thanks 🙌 for reading and good luck on your next tech interview!
-    <br data-v-5e9078c0="">
-    Explore 3800+ dev interview question here 👉
-    <a data-v-5e9078c0="" href="https://devinterview.io/">Devinterview.io</a></div> <!----></div>
+### Role of Comments in Development
+
+Comments ensure clear code comprehension and can be used for:
+
+- **Instructions**: Guiding developers on next steps.
+- **Documentation**: Articulating intricate code segments.
+- **Debugging**: Temporarily removing portions for bug testing.
+- **Reminders**: Highlighting sections for later revision.
+
+### Best Practices for Using Comments
+
+- **Purposeful Clarity**: Comments must explain what the code does, not how. Code and inline comments should clarify how the code works.
+- **Relevance**: Avoid stating the obvious and focus on unique or complex components.
+- **Conciseness**: Keep comments brief to reduce visual clutter.
+- **Regular Maintenance**: Update or remove outdated comments to maintain accuracy.
+
+### When are Comments Unnecessary?
+
+- **Trivial Cases**: Comments like "<div> wrapper" or "<p> tag" denote the obvious.
+- **Self-Explanatory Code**: Writing **self-descriptive** code eliminates the need for specific comments.
+<br>
+
+## 9. How do you serve your page in multiple _languages_?
+
+Let's discuss the **best practices** for serving web pages in multiple languages and the corresponding HTML5 tag, `<html lang="en">`.
+
+### Language Tag
+
+For serving content in multiple languages and optimizing accessibility and search engine performance, you should use the `lang` attribute on the `<html>` tag. This is considered a **best practice**, even if the page is only in English.
+
+```html
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website</title>
+  </head>
+  <body>
+    <!-- Page content here -->
+  </body>
+</html>
+```
+
+### Common Language Codes
+
+Most languages follow the two-letter ISO 639-1 code, such as "en" for English or "es" for Spanish. Some languages also use an extended ISO 639-2 or 639-3 code, which might require three to four letters, like "por" for Portuguese. 
+
+For dialects or region-specific content, you can use a hyphen, followed by an ISO 3166-1 alpha-2 country code. For instance:
+
+- "en-GB" for British English
+- "es-ES" for Spanish as spoken in Spain
+- "pt-BR" for Brazilian Portuguese
+- "pt-PT" for European Portuguese
+
+Understand that while the `lang` attribute assists in accessibility, user agents may not always recognize or act upon these subtags.
+
+### SEO Considerations
+
+Serving content in multiple languages comes with SEO responsibilities. One common practice is to assign a *language-specific* URL for each version of your content. In addition to this, utilize human-readable URLs to effectively comminicate the language and the content topic/design.
+
+For instance, use:
+- `example.com/en-US/about` for pages in American English.
+- `example.com/es-MX/sobre` for those in Mexican Spanish.
+
+### AI-Clearance Required
+
+This technique requires further validation and clearance upon implementation as a lot is dependent on SEO constraints and localized content.
+<br>
+
+## 10. What are _data-_* attributes and when should they be used?
+
+**Data attributes** in HTML5, often referred to as **`data-*` attributes**, help embed custom data within HTML elements. This presents a powerful tool for web developers, facilitating streamlined **JavaScript** and **CSS** operations.
+
+### Core Benefits
+
+- **Accessibility**: Data attributes are easily accessible through the `dataset` API in JavaScript.
+
+- **Ignoring formatting tactics**: In places where content served by backend, cannot assume the content to always be JSON encoded, shortened, or have odd formatting.
+
+- **Data Isolation**: For better maintenance of web documents. Data attributes have clear, defined roles within HTML.
+
+### Code Example: Using Data Attributes
+
+Here is the HTML & JavaScript:
+
+```html
+<div id="user" data-name="John Doe" data-age="25"></div>
+
+<script>
+  const userDiv = document.getElementById('user');
+  console.log(userDiv.dataset.name);  // Output: "John Doe"
+  console.log(userDiv.dataset.age);   // Output: "25"
+</script>
+```
+
+### Appropriate Use-Cases
+
+- **Custom Content for DOM Elements**: For attaching extra information or configuration settings exclusively relevant to an HTML element.
+  
+  Example: A `div` may have a `data-show-tooltip` attribute set to `true` to indicate it should display a tooltip.
+
+- **Interactivity Configuration**: When working with user-made widgets, data attributes can specify how they behave in a more structured, intended manner. Useful in contexts where individual DIV or section blocks have interactivity toggles, or categories.
+
+- **E-Commerce & Web Products**: To store product-specific IDs or additional details as they pertain to the DOM representation of a product in a catalog.
+
+- **Styling Signifiers**: You can leverage data attributes in CSS for different types of styling like category colors, hover effects, or even in JavaScript-based CSS declarations.
+<br>
+
+## 11. What is the difference between _b_ and _strong_ tags?
+
+The `<b>` and `<strong>` tags are **both used for text emphasis** in HTML, but they have different semantic meanings.
+
+### Bold vs. Strong
+
+- The purpose of the `<b>` tag is to make the text **bold**, mainly for visual styling.
+- The `<strong>` tag, on the other hand, **semantically emphasizes** the text, indicating its importance.
+
+### Semantic Importance
+
+The use of semantic tags like `<strong>` is beneficial for components like screen readers, browsers, and search engines, which can provide better user experience or understanding of content with proper emphasis.
+
+### Code Example: B vs. Strong
+
+In the HTML, the content "Caution" is visually bold and the content "Urgent Notice!" is both visually bold and semantically strong.
+
+```html
+<p>
+  <b>Caution</b>: This action cannot be undone.
+  <br>
+  <strong>Urgent Notice!</strong> Please save your work before proceeding.
+</p>
+```
+
+### General Best Practice
+
+- **Visual Styling** is usually left to CSS. `<b>` should be used with caution, if at all, as it becomes redundant in many scenarios due to CSS's wide adoption.
+- **Semantic Tags** like `<strong>` provide context, clarity, and accessibility to the content.
+<br>
+
+## 12. When would you use _em_ over _i_, and vice versa?
+
+Let's see the difference between 'em' and 'i' HTML tags.
+
+### When to Use 'em'
+
+The 'em' tag italicizes the text by default and should be reserved for occasions when emphasis is needed.
+
+One potential usage could be for interactive instructions:
+
+```html
+<p><strong>Press</strong> <em>Enter</em> to submit.</p>
+```
+
+### When to Use 'i'
+
+The 'i' tag, or **italics** tag, is often avoided for text styling. Instead, consider semantic HTML, CSS, or more explicit HTML options like `<em>` for emphasis, when possible.
+
+Here's an example of `<em>` combined with CSS for an additional bit of fluorescence. 
+
+```html
+<p>His <em style="background-color: yellow; color: red;">anger</em> was palpable.</p>
+```
+<br>
+
+## 13. What is the purpose of _small_, _s_, and _mark_ tags?
+
+The `small`, `s`, and `mark` HTML5 tags are used to **alter the structure and presentation** of text content.
+
+### `<small>`
+
+The `<small>` tag indicates that the enclosed text is of lesser importance, typically used for **fine print**, legal disclaimers, copyright notices, etc.
+
+Here are examples:
+
+#### Use Case
+
+```html
+<footer>
+  <small>&copy; 2022 Company Name</small>
+</footer>
+```
+
+### `<s>`
+
+The `<s>` tag, which stands for "strike," is a non-semantic, obscure tag that is often replaced with a more meaningful tag, such as `<del>` for "deleted" content. However, it still visually **strikes out** its content.
+
+#### Use Case
+
+```html
+<p>Your discount code is: <s>EXPIRED123</s></p>
+```
+
+#### Visual Representation
+
+Your discount code is: ~~EXPIRED123~~
+
+### `<mark>`
+
+The `<mark>` tag is used to **highlight** or **set apart** text without specifying any additional semantic information.
+
+#### Use Case
+
+```html
+<p>Important: Please <mark>schedule your appointment</mark> at least 48 hours in advance.</p>
+```
+<br>
+
+## 14. What are _semantic HTML tags_ and why are they important?
+
+**Semantic HTML tags** provide both structure and meaning to web content. They allow crawlers, browsers, and even assistive technologies to understand content better and present it more effectively. This approach improves accessibility and search engine optimization, making pages easier to maintain and understand.
+
+### Benefits of Semantic Tags
+
+- **SEO and Accessibility**: Employing semantic tags improves your page's search engine ranking and ensures it's accessible to all users, including those with disabilities.
+
+- **Consistent Structure**: Semantic tags establish a cohesive layout, vital for large websites or platforms.
+
+- **Relevance to Bots and Crawlers**: Search engine algorithms dissect web pages more accurately when content is correctly labeled.
+
+- **Content Division**: Segregating content by their meaning makes the document more understandable and maintainable.
+
+### Common Semantic Tags
+
+- `<p>`: A paragraph.
+- `<h1> - <h6>`: Headings, with 1 (highest) to 6 (lowest) levels.
+- `<ul> / <ol>`: Unordered or ordered list.
+- `<li>`: List item inside a list.
+- `<a>`: Anchor, used for links.
+- `<img>`: An image.
+- `<figure> / <figcaption>`: For a figure such as an image, with accompanying caption.
+
+### Necessary vs. Optional Tags
+
+While essential tags like `<header>` and `<footer>` indicate crucial sections, many are optional based on the website's nature or the page's segregation needs. For example, a blog may require the `<article>` tag, while a retail site might not.
+
+In modern web development, the clear distinction offered by semantic tags is invaluable for quick comprehension and maintenance, yielding superior results for both users and developers.
+
+### Code Example: Before vs. After Semantic HTML
+
+Consider the before and after examples to see the impact of semantic tags.
+
+#### Before Semantic HTML
+
+```html
+<div class="nav">
+    <div class="logo">
+        <a href="#">Logo</a>
+    </div>
+    <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </div>
+</div>
+<div class="main-wrapper">
+    <div class="image">
+        <img src="image.jpg" alt="A beautiful landscape">
+    </div>
+    <div class="content">
+        <h3>Welcome</h3>
+        <p>Some welcome text here.</p>
+    </div>
+</div>
+<div class="footer">
+    <p>© 2022 Company Name</p>
+</div>
+```
+
+#### After Implementing Semantic Tags
+
+```html
+<header>
+    <div class="logo">
+        <a href="#">Logo</a>
+    </div>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<main>
+    <figure>
+        <img src="image.jpg" alt="A beautiful landscape">
+        <figcaption>A beautiful landscape</figcaption>
+    </figure>
+    <section>
+        <h1>Welcome</h1>
+        <p>Some welcome text here.</p>
+    </section>
+</main>
+
+<footer>
+    <p>© 2022 Company Name</p>
+</footer>
+```
+<br>
+
+## 15. How do you create a _paragraph_ or a _line break_ in HTML?
+
+In HTML, to create a **paragraph**, use `<p>...</p>` tags, and to insert a **line break**, use `<br>` tag.
+
+### Paragraphs in HTML
+
+Traditional paragraph formatting in HTML is achieved using the `<p>` tag. The browser's default styling generally adds **spacing** to the top and bottom of each `<p>` element, creating distinct paragraphs.
+
+#### Syntax
+
+```html
+<p>
+    This is an example of a paragraph. The text enclosed within the &lt;p&gt; tags represents a single paragraph.
+</p>
+```
+
+#### Visual Representation
+
+<p>
+    This is an example of a paragraph. The text enclosed within the &lt;p&gt; tags represents a single paragraph.
+</p>
+
+### Line Breaks in HTML
+
+To insert a simple line break in an HTML document, use the `<br>` tag. This tag doesn't require a closing equivalent.
+
+#### Syntax
+
+```html
+First Line<br>Second Line
+```
+
+#### Visual Representation
+
+First Line<br> Second Line (This text doesn't render the line break; it's just to show the raw HTML.)
+
+
+### Multi-line Text Elements
+
+In HTML, the `<textarea>` tag allows the input of several lines of text. Nonetheless, it does not auto-format for paragraphs. It **wraps text** instead, and vertical scroll bars might be enabled, based on the template and content.
+
+#### Syntax
+
+```html
+<textarea rows="4" cols="50">
+This is a multi-line text area.
+It doesn't automatically create separate paragraphs.
+Text wraps based on dimensions supplied.
+</textarea>
+```
+
+#### Visual Representation
+
+```html
+<textarea rows="4" cols="50">
+This is a multi-line text area.
+It doesn't automatically create separate paragraphs.
+Text wraps based on dimensions supplied.
+</textarea>
+```
+<br>
+
+
+
+#### Explore all 100 answers here 👉 [Devinterview.io - HTML5](https://devinterview.io/questions/web-and-mobile-development/html5-interview-questions)
+
+<br>
+
+<a href="https://devinterview.io/questions/web-and-mobile-development/">
+<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
+</a>
+</p>
+
